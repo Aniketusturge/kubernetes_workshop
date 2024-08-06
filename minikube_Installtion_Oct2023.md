@@ -57,7 +57,7 @@ echo \
 5. Install Docker:
 
     ```bash
-    $ sudo apt-get install docker-ce docker-ce-cli containerd.io -y
+    $ sudo apt install docker.io -y
     ```
 
 6. Add your user to the docker group:
